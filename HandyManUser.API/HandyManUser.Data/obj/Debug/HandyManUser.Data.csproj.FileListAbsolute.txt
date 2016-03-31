@@ -1,0 +1,5 @@
+C:\dev\20-HandyMan\HandyManUser.API\HandyManUser.Data\bin\Debug\HandyManUser.Data.dll
+C:\dev\20-HandyMan\HandyManUser.API\HandyManUser.Data\bin\Debug\HandyManUser.Data.pdb
+C:\dev\20-HandyMan\HandyManUser.API\HandyManUser.Data\obj\Debug\HandyManUser.Data.csprojResolveAssemblyReference.cache
+C:\dev\20-HandyMan\HandyManUser.API\HandyManUser.Data\obj\Debug\HandyManUser.Data.dll
+C:\dev\20-HandyMan\HandyManUser.API\HandyManUser.Data\obj\Debug\HandyManUser.Data.pdb

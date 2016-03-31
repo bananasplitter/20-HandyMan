@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandyManUser.API", "HandyManUser.API\HandyManUser.API.csproj", "{60A17B11-14E9-4546-839C-9DAFB5B42470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandyManUser.Core", "HandyManUser.Core\HandyManUser.Core.csproj", "{42DD88D3-BE4B-4970-B66C-FBEE29232E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandyManUser.Data", "HandyManUser.Data\HandyManUser.Data.csproj", "{1224E23B-2498-4A50-867E-B382117D9381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A17B11-14E9-4546-839C-9DAFB5B42470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A17B11-14E9-4546-839C-9DAFB5B42470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A17B11-14E9-4546-839C-9DAFB5B42470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A17B11-14E9-4546-839C-9DAFB5B42470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42DD88D3-BE4B-4970-B66C-FBEE29232E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DD88D3-BE4B-4970-B66C-FBEE29232E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DD88D3-BE4B-4970-B66C-FBEE29232E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DD88D3-BE4B-4970-B66C-FBEE29232E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1224E23B-2498-4A50-867E-B382117D9381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1224E23B-2498-4A50-867E-B382117D9381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1224E23B-2498-4A50-867E-B382117D9381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1224E23B-2498-4A50-867E-B382117D9381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\HandyMan.Core.dll.config
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\HandyMan.Core.dll
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\HandyMan.Core.pdb
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\ModernHttpClient.dll
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\Newtonsoft.Json.dll
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\Stripe.net.dll
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\Newtonsoft.Json.xml
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\bin\Debug\Stripe.net.pdb
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\obj\Debug\HandyMan.Core.dll
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\obj\Debug\HandyMan.Core.pdb
+C:\dev\20-HandyMan\TheHandyMan.Api\HandyMan.Core\obj\Debug\HandyMan.Core.csprojResolveAssemblyReference.cache
